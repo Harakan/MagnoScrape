@@ -1,0 +1,21 @@
+CREATE TABLE vehicles(
+  prov VARCHAR(8) NOT NULL PRIMARY KEY
+, light INT NOT NULL 
+, medium INT NOT NULL 
+, heavy INT NOT NULL 
+, total INT NOT NULL 
+);
+INSERT INTO vehicles(prov,light,medium,heavy,total) VALUES ('NF',267464,3575,2881,273919);
+INSERT INTO vehicles(prov,light,medium,heavy,total) VALUES ('PEI',76985,1328,2613,80926);
+INSERT INTO vehicles(prov,light,medium,heavy,total) VALUES ('NS',537784,7517,7671,552973);
+INSERT INTO vehicles(prov,light,medium,heavy,total) VALUES ('NB',462710,5913,4036,472658);
+INSERT INTO vehicles(prov,light,medium,heavy,total) VALUES ('QC',4417295,46237,39156,450268);
+INSERT INTO vehicles(prov,light,medium,heavy,total) VALUES ('ON',6957086,84345,112902,7154332);
+INSERT INTO vehicles(prov,light,medium,heavy,total) VALUES ('MN',641456,10625,16446,668527);
+INSERT INTO vehicles(prov,light,medium,heavy,total) VALUES ('SK',676469,33960,26533,736963);
+INSERT INTO vehicles(prov,light,medium,heavy,total) VALUES ('AB',2421733,106735,82704,2611173);
+INSERT INTO vehicles(prov,light,medium,heavy,total) VALUES ('BC',2495210,89701,16972,2601883);
+INSERT INTO vehicles(prov,light,medium,heavy,total) VALUES ('YK',25423,1662,1332,28417);
+INSERT INTO vehicles(prov,light,medium,heavy,total) VALUES ('NWT',21302,808,1463,23573);
+INSERT INTO vehicles(prov,light,medium,heavy,total) VALUES ('NV',3123,270,223,3493);
+INSERT INTO vehicles(prov,light,medium,heavy,total) VALUES ('CAN',19003427,392608,314878,19710912);
