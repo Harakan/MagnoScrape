@@ -9,3 +9,5 @@ General look and feel
 4. Parse demographics data,
 4a. lookup in google api for lat/long data to match with weather data
 5. Add to SQL db and link id's with the weather data
+
+Other scripts were made for data visualisation. Mainly a video timelapse of all canadian cities who need block heaters
